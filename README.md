@@ -1,7 +1,7 @@
-# Bem-vindo ao meu GitHub! 👋
+# Bem-vindo! 👋
 
 ## Sobre Mim
-Olá, sou um estudante de Engenharia de Software na FIAP (Faculdade de Informática e Administração Paulista). Estou apaixonado por explorar o mundo da programação e compartilhar meu conhecimento e projetos com você. Aqui está um pouco do que você pode esperar encontrar neste repositório:
+Sou um estudante de Engenharia de Software na FIAP (Faculdade de Informática e Administração Paulista).
 
 ## Minhas Linguagens de Programação
 - **C**: A base sólida onde tudo começou, aprendi a arte da programação com C.
@@ -19,7 +19,5 @@ Olá, sou um estudante de Engenharia de Software na FIAP (Faculdade de Informát
 
 ## Vamos Construir Coisas Incríveis Juntos
 A jornada da programação é repleta de desafios, mas é também uma aventura emocionante e cheia de possibilidades. Vamos aprender, criar e inovar juntos! Se você tiver alguma pergunta ou ideia para colaboração, não hesite em entrar em contato.
-
-Divirta-se explorando meu GitHub, e obrigado por fazer parte dessa jornada!
 
 _Stay curious, stay coding!_ 🚀👨‍💻
