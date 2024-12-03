@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7852DC&height=120&section=header"/>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julio Zampieri
 ======================================================================================================================================
@@ -40,4 +39,3 @@ FIAP Student | Aspiring Software Engineer | UI UEX | BACK-END | FRONT-END | DATA
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jzampieri&stroke=ffffff&background=0d1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&text_color=5183DB" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7852DC&height=120&section=footer"/>
