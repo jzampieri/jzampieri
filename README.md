@@ -5,11 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-FIAP Student | Aspiring Software Engineer | UI UEX | BACK-END | FRONT-END | DATABASE |
+FIAP Student - Software Engineer | Trying to be a Data Scientist
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [contact.zampieri@gmail.com](mailto:contact.zampieri@gmail.com)
-* 🧠  I'm learning Java and C#
+* 🧠  I'm currently developing my machine learning skills
 
 
 <div align="center">
