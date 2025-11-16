@@ -6,7 +6,7 @@ Hi 👋 I’m Julio Zampieri
 📧 contact.zampieri@gmail.com  
 🌐 Portfolio: https://zampieridev.vercel.app  
 
-**Software Engineer | Full-stack  **
+**Software Engineer | Full-stack**
 
 I build applications and backend systems with a strong foundation in data engineering and machine learning — combining clean code, scalable architecture and real-world insights.
 
@@ -50,18 +50,10 @@ I build applications and backend systems with a strong foundation in data engine
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="AWS"/></a>
 </p>
 
----
-
-### 📂 Featured Projects
-
-- 🔹 **[Portfolio](https://github.com/jzampieri/Portfolio)** — Personal website built with TypeScript + Vite, showing my projects, skills and journey into software engineering.  
-- 🔹 **[Kaggle-Competitions](https://github.com/jzampieri/Kaggle-Competitions)** — Data science and ML experiments: demonstrates how I think about problems end-to-end, from data to model to product.  
-- 🔹 **[Data-Visualization-w-Python](https://github.com/jzampieri/Data-Visualization-w-Python)** — Dashboard built with Streamlit + Plotly: shows how I deliver insights and build user-facing analytics.  
-- 🔹 **[LeetCodeChallenge](https://github.com/jzampieri/LeetCodeChallenge)** — Regular practice of algorithms & data structures: part of my preparation for software engineering roles.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jzampieri&show_icons=true&count_private=true&hide_border=true&title_color=5183DB&icon_color=5183DB&text_color=ffff&bg_color=0d1117" alt="Julio Zampieri GitHub stats" />  
