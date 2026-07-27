@@ -31,7 +31,7 @@ My engineering philosophy centers on **Clean Architecture**, **Domain-Driven Des
 
 > Engineering is not about code — it's about the outcomes the code produces.
 
-- 🔗 **Keeta (Meituan)** — Achieved **99.98% stability** in active connections by optimizing debugging and troubleshooting for complex **REST/SOAP** integrations.
+- 🔗 **Keeta (Meituan)** — Achieved **99.99% stability** in active connections by optimizing debugging and troubleshooting for complex **REST/SOAP** integrations.
 - ⚡ **Keeta (Meituan)** — Reduced partner technical onboarding time by **27%** through standardization of data flows and API documentation.
 - 💰 **Rede Decisão** — Engineered a debt negotiation platform that cut the default rate (*inadimplência*) from **8% to 3.6%**, directly improving revenue.
 - 🌎 **Amdocs** — Driving technical modernization and cross-border integrations for enterprise telecom clients across **LATAM & Caribbean**.
@@ -91,14 +91,7 @@ My engineering philosophy centers on **Clean Architecture**, **Domain-Driven Des
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jzampieri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzampieri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0077B5"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jzampieri&theme=tokyonight&hide_border=true&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jzampieri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0077B5&line=0077B5&point=ffffff&area=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jzampieri&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+<div align="center"> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=jzampieri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5"/> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jzampieri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0077B5"/> </div>
 
 </div>
 
@@ -122,7 +115,7 @@ A personal finance platform built for clarity and control — architected with a
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jzampieri&repo=nexus-finance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5"/>
+<img src="./img/Captura de tela 2026-07-27 182142.png"/>
 
 </td>
 </tr>
