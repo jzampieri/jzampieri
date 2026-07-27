@@ -115,7 +115,9 @@ My engineering philosophy centers on **Clean Architecture**, **Domain-Driven Des
 #### 💸 Nexus Finance
 A personal finance platform built for clarity and control — architected with a **Go** backend, a reactive **React + Vite** frontend, and **Supabase** for auth & data. Features PDF report exports, installment forecasting, and automated build pipelines with **GitHub Actions** (Railway + Vercel).
 
-`Go` · `React` · `Vite` · `Supabase` · `CI/CD`
+`Go` · `Vue.js` · `Vite` · `Supabase` · `CI/CD`
+
+<a href='https://nexus-finance-web-seven.vercel.app/login'>Try Nexus Finance Now<a/>
 
 </td>
 <td width="50%" valign="top">
